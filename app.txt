@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hola Mundo
 Nueva linea
+=======
+Hola mundo
+nueva linea
+>>>>>>> nueva_funcionalidad
 Cambio en rama
